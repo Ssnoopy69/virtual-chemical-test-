@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/frontSC.unity
+    guid: 88eec9e0f52cb0248a06222c07198acf
+  - enabled: 1
+    path: Assets/Scenes/mainSc.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/FrontDsp.unity
+    guid: 7eda0de8ced279e4db81ab9f5c295800
+  - enabled: 1
+    path: Assets/Scenes/questSc.unity
+    guid: 1cc3809cda7a8e74bbedc92cc97d797b
+  - enabled: 1
+    path: Assets/Scenes/adminSc.unity
+    guid: 92230f780d664e6458a14426279d3872
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 658b8d1436952c84bb7039a5f4a9e7a8,
+      type: 2}
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: fcbba00d5d311f84b89772a16ed16e60,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 50c71e8138435b6439ad5aa6213e516e,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 3cb9944be76e55745bbf51ae07abb6b4,
+      type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 537d94c84db98bc4f8db3dc679eca2a7,
+      type: 2}
